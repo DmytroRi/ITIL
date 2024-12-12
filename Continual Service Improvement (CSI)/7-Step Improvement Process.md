@@ -1,7 +1,7 @@
 Assoziationen: [[Continual Service Improvement (CSI)]]
 
 **Ziel des Prozesses:**
-Den Ablauuf in einer Firma kontinuierlich verbessern.
+Den Ablauf in einer Firma kontinuierlich verbessern.
 
 Die 7 Schritte sind:
 - Definieren, was Sie messen sollten
