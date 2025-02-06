@@ -1,5 +1,5 @@
 # ITIL
-**Ausführende:** Dmytro Riabchuk, Marten Lukas Ahlers, Zineb Bouzzine  
+**Ausführende:** Dmytro Riabchuk, Marten Ahlers, Zineb Bouzzine  
 **Thema der Arbeit:** ITIL  
 **Lernfeld:** 06  
 **Lehrkraft:** Manuel Gutschke  
